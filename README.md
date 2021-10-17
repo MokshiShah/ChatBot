@@ -1,2 +1,2 @@
 # ChatBot
-Here add the basic desc later on
+An Artificial Intelligence based Chatbot using python which simulates conversation with user.
